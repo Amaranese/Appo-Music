@@ -1,5 +1,5 @@
 {
-    "name": "appo_music",
+    "name": "appo_music", 
     "private": true,
     "dependencies": {
         "@babel/core": "^7.12.9",
